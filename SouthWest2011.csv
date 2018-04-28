@@ -1,0 +1,37 @@
+DC2107EW - Religion by sex by age,,,,,,,,,,
+ONS Crown Copyright Reserved [from Nomis on 28 April 2018],,,,,,,,,,
+,,,,,,,,,,
+population,All usual residents,,,,,,,,,
+units,Persons,,,,,,,,,
+date,2011,,,,,,,,,
+area type,regions,,,,,,,,,
+area name,South West,,,,,,,,,
+sex,All persons,,,,,,,,,
+,,,,,,,,,,
+Age,All categories: Religion,Christian,Buddhist,Hindu,Jewish,Muslim,Sikh,Other religion,No religion,Religion not stated
+All categories: Age,"5,288,935","3,194,066","19,730","16,324","6,365","51,228","5,892","29,279","1,549,201","416,850"
+Age 0 to 4,"296,094","128,938",503,"1,360",172,"6,680",432,495,"127,349","30,165"
+Age 5 to 7,"166,138","88,262",324,633,130,"3,358",235,334,"59,619","13,243"
+Age 8 to 9,"106,551","59,644",239,299,73,"1,900",134,243,"35,803","8,216"
+Age 10 to 14,"296,892","164,751",770,716,234,"4,088",414,807,"101,632","23,480"
+Age 15,"64,003","34,186",192,130,56,743,97,208,"23,046","5,345"
+Age 16 to 17,"128,935","66,753",407,259,98,"1,501",164,413,"48,733","10,607"
+Age 18 to 19,"135,139","62,834",539,467,193,"1,585",233,552,"58,019","10,717"
+Age 20 to 24,"333,166","143,831","1,589","1,479",451,"4,408",632,"1,632","154,426","24,718"
+Age 25 to 29,"307,159","136,910","1,557","2,414",291,"5,474",601,"1,943","137,547","20,422"
+Age 30 to 34,"296,791","140,571","1,785","2,434",216,"5,671",593,"2,133","124,184","19,204"
+Age 35 to 39,"322,364","163,571","2,063","1,605",294,"4,883",443,"2,714","125,164","21,627"
+Age 40 to 44,"375,538","211,644","2,105","1,114",402,"3,475",439,"3,320","126,384","26,655"
+Age 45 to 49,"389,583","238,495","1,980",831,415,"2,154",374,"3,447","111,515","30,372"
+Age 50 to 54,"350,433","229,369","1,544",734,448,"1,728",286,"3,107","84,060","29,157"
+Age 55 to 59,"323,198","220,667","1,532",596,489,"1,242",284,"2,693","67,844","27,851"
+Age 60 to 64,"361,507","262,644","1,320",454,590,778,198,"2,241","62,589","30,693"
+Age 65 to 69,"297,440","229,840",635,274,472,593,120,"1,350","39,927","24,229"
+Age 70 to 74,"235,462","190,510",335,232,383,499,94,729,"24,379","18,301"
+Age 75 to 79,"195,666","162,653",156,181,327,275,66,444,"16,189","15,375"
+Age 80 to 84,"153,093","128,472",88,67,270,129,30,285,"11,169","12,583"
+Age 85 and over,"153,783","129,521",67,45,361,64,23,189,"9,623","13,890"
+,,,,,,,,,,
+"In order to protect against disclosure of personal information, records have been swapped between different geographic areas. Some counts will be affected, particularly small counts at the lowest geographies.",,,,,,,,,,
+"The voluntary question on religion in the 2011 Census was intended to capture people's religious affiliation and identification at the time of the Census irrespective of whether they practised or believed in that religion or how important it was in their lives. If a person had no religion then the first of a series of tick boxes could be selected. Care should be taken when using these data not to infer, or allow the inference by others, that the practice of a religion or specific religious activities that are expected of believers has been measured. Unlike other census questions where missing answers are imputed, this question was voluntary, and where no answer was provided the response is categorised as 'not stated'.",,,,,,,,,,
+"Due to an error in the processing of census data, the number of usual residents in the 'Religion not stated' category has been overestimated by a total of 62,000 for three local authorities: Camden, Islington and Tower Hamlets. More information from http://www.ons.gov.uk/ons/guide-method/census/2011/census-data/census-products--issues-and-corrections/index.html.",,,,,,,,,,
